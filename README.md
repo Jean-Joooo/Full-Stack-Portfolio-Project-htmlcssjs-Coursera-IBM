@@ -1,6 +1,6 @@
 # Coursera | IBM Full Stack Courses: Portfolio creation with HTML, CSS, and JS
 
-----> https://jean-joooo.github.io/Full-Stack-Portfolio-Project-htmlcssjs-Coursera-IBM/
+----> [click here](https://jean-joooo.github.io/Full-Stack-Portfolio-Project-htmlcssjs-Coursera-IBM/)
 
 I crafted a dynamic portfolio for an exam project, by combining HTML, CSS, and JavaScript. This project aimed to showcase a harmonious blend of design, styling, and interactivity, resulting in a polished and personalized portfolio.
 
